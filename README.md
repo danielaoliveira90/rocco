@@ -9,4 +9,4 @@ Fun fact: I met Rocco during an Uber ride—he was the driver! He told me he was
 
 ## Screenshots
 
-<img width="1444" alt="Image" src="https://github.com/user-attachments/assets/11286c7d-170f-4a6a-88ca-b700f1646fe4" /> (https://danielaoliveira90.github.io/rocco/)
+<img width="1444" alt="Image" src="https://github.com/user-attachments/assets/11286c7d-170f-4a6a-88ca-b700f1646fe4" />
